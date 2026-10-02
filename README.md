@@ -298,7 +298,7 @@ Hospital-Patient-Analytics/
 │   │   ├── services_weekly_cleaned.csv
 │   │   ├── staff_cleaned.csv
 │   │   └── staff_schedule_cleaned.csv
-│   └── images/
+│   └── Dashboard_Screenshot/
 │
 ├── notebooks/
 │   ├── 01_data_loading.ipynb
